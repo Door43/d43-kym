@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kym:home|Door43 (kym)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kym|d43-kym repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kym/archive/master.zip|d43-kym.zip]]
+
+**Recent Changes**
+{{changes>ns = kym}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kym|Ethnologue data]]
+
